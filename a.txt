@@ -1,6 +1,4 @@
-
-
-Stash demo is om
+Stash demo
 
 Bug fix
 
