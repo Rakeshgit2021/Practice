@@ -1,3 +1,3 @@
 demo for rebase
 
-This is edited by Devloper B
+Edit successfull by Dev C
