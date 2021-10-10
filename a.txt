@@ -1,9 +1,1 @@
-Stash demo
-
-Bug fix
-
-
-
-demo for rebase
-
-Edit successfull by Dev C
+commit on branch2
